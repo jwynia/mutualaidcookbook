@@ -14,8 +14,8 @@
 - Big handful of oats
 
 ## Directions
-375F convection for 25
-Makes 6 x 2/3c muffins
+- 375F convection for 25
+- Makes 6 x 2/3c muffins
 
 ## Tags
 baking muffins needs-imperial-conversion
