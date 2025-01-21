@@ -97,7 +97,7 @@ docs/          # Project documentation
 
 ## License
 
-Content: [Creative Commons Attribution-ShareAlike 4.0](LICENSE)
+Content: [Creative Commons Attribution-ShareAlike 4.0](LICENSE.txt)
 Code: [MIT](LICENSE-CODE)
 
 ## Community and Support
