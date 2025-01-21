@@ -1,0 +1,73 @@
+# Cooking Method Tags
+method:
+  one_pot: "Cooked entirely in a single container"
+  no_cook: "Requires no heating or cooking"
+  minimal_prep: "Very little preparation or cutting needed"
+  passive_cooking: "Majority of time is hands-off"
+  active_cooking: "Requires consistent attention"
+  batch_cooking: "Well-suited for making large quantities"
+  make_ahead: "Can be prepared in advance"
+
+# Resource Tags
+resources:
+  low_equipment: "Requires minimal kitchen equipment"
+  pantry_based: "Uses primarily shelf-stable ingredients"
+  budget_friendly: "Emphasizes cost-effective ingredients"
+  freezer_friendly: "Suitable for freezing and reheating"
+  quick_cooking: "30 minutes or less active time"
+  energy_efficient: "Minimizes energy use (fuel/electricity)"
+  storage_friendly: "Keeps well, good for leftovers"
+
+# Dietary Tags
+dietary:
+  vegetarian: "No meat or fish"
+  vegan: "No animal products"
+  gluten_free: "Contains no gluten"
+  dairy_free: "Contains no dairy"
+  nut_free: "Contains no nuts or nut products"
+  soy_free: "Contains no soy products"
+  low_sodium: "Limited salt content"
+  high_protein: "Good source of protein"
+
+# Technique Focus Tags
+technique:
+  basic: "Fundamental cooking technique"
+  adaptable: "Easily modified for different situations"
+  scalable: "Can be scaled up or down easily"
+  substitution_friendly: "Works well with ingredient substitutions"
+  teaching_focused: "Good for learning cooking skills"
+  troubleshooting: "Addresses common cooking problems"
+
+# Accessibility Tags
+accessibility:
+  low_energy: "Suitable for low-energy days"
+  low_spoons: "Minimal physical/mental energy required"
+  brain_fog_friendly: "Clear, simple steps; hard to mess up"
+  minimal_lifting: "Avoids heavy lifting requirements"
+  seated_possible: "Can be prepared while seated"
+  break_points: "Can be paused at multiple stages"
+  sensory_notes: "Includes relevant sensory information"
+
+# Context Tags
+context:
+  meal_train: "Good for coordinated meal support"
+  community_kitchen: "Works well in community cooking settings"
+  shared_kitchen: "Suitable for shared kitchen spaces"
+  limited_storage: "Works with minimal storage space"
+  limited_refrigeration: "Minimal refrigeration needed"
+  transport_friendly: "Travels well"
+
+# Seasonal Tags
+seasonal:
+  summer: "Best in summer/hot weather"
+  winter: "Best in winter/cold weather"
+  pantry_season: "Good when fresh produce limited"
+  harvest_season: "Good for preserving abundant produce"
+
+# Usage Notes:
+# - Tags should be used consistently across all content
+# - Multiple tags from each category can be used
+# - If unsure about a tag, err on the side of not using it
+# - New tags should be proposed through the contribution process
+# - Tag definitions should be clear and specific
+# - Tags should focus on practical attributes

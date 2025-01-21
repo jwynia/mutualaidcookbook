@@ -1,0 +1,37 @@
+metadata:
+  title:
+  type: recipe
+  id: unique-recipe-id
+  foundational_techniques: []
+  core_principles: []
+  icons: []
+  tags: []
+  scaling_range:
+  storage_time:
+  equipment_needed:
+  energy_level_needed:
+
+content_sections:
+  overview:
+    description:
+    why_useful:
+    key_technique:
+    
+  base_recipe:
+    ingredients_ratio:
+    method:
+    technique_points:
+    success_indicators:
+    
+  adaptations:
+    core_substitutions:
+    dietary_modifications:
+    equipment_alternatives:
+    scaling_guidance:
+    cost_considerations:
+    
+  storage:
+    instructions:
+    batch_cooking:
+    reheating:
+    quality_expectations:

@@ -1,0 +1,165 @@
+metadata:
+  title: "Adaptable Skillet Meal Base"
+  type: recipe
+  id: skillet-base
+  foundational_techniques: ["quick-thickening", "one-pot-cooking"]
+  core_principles: ["flexibility", "resource-stretching", "energy-conscious"]
+  icons: ["↔️", "♨️", "🔧", "🕒"]
+  tags: ["main-dish", "batch-friendly", "freezer-friendly", "protein-flexible"]
+  scaling_range: "2-8 servings"
+  storage_time: "4 days refrigerated, 3 months frozen"
+  equipment_needed: "one large pan/skillet"
+  energy_level_needed: "moderate, with rest points"
+
+content_sections:
+  overview:
+    description: "A customizable one-pan meal combining protein, starch, and vegetables in a savory sauce"
+    why_useful: 
+      - "Works with many ingredient combinations"
+      - "Can be made in stages if energy is limited"
+      - "Scales easily for batch cooking"
+      - "Uses minimal equipment"
+    key_technique: "Building a sauce while cooking components together"
+    
+  base_recipe:
+    ingredients_ratio:
+      - "1 part protein"
+      - "1 part starch (pasta, rice, etc.)"
+      - "1-2 parts vegetables"
+      - "2-3 parts liquid"
+      - "Seasoning (bouillon, soup mix, or spice blend)"
+      
+    method:
+      prep_phase:
+        - "If using raw protein, brown it first"
+        - "If using pasta, measure according to package"
+        - "If using frozen vegetables, no prep needed"
+      
+      cooking_phase:
+        - "Brown protein if raw, or add pre-cooked protein with liquid"
+        - "Add liquid and seasonings"
+        - "Add starch, cook until nearly done"
+        - "Add vegetables based on cooking time needed"
+        - "Thicken sauce using quick-thickening technique"
+      
+    technique_points:
+      - "Order of additions matters for texture"
+      - "Liquid amount varies by starch type"
+      - "Sauce thickens as it stands"
+      
+    success_indicators:
+      - "All components tender but not mushy"
+      - "Sauce coats ingredients evenly"
+      - "Flavors well-distributed"
+    
+  adaptations:
+    core_substitutions:
+      protein:
+        quick_cooking:
+          - "Ground meats"
+          - "Crumbled tofu"
+          - "TVP"
+        pre_cooked:
+          - "Canned beans"
+          - "Rotisserie chicken"
+          - "Cooked lentils"
+      
+      starch:
+        pasta_types:
+          - "Egg noodles (6-8 min cook)"
+          - "Small shapes (8-10 min cook)"
+          - "Broken long pasta"
+        alternatives:
+          - "Quick-cooking rice"
+          - "Quinoa"
+          - "Instant potatoes"
+      
+      vegetables:
+        frozen:
+          - "Pea/carrot mix"
+          - "Green beans"
+          - "Mixed vegetables"
+        quick_cooking_fresh:
+          - "Spinach"
+          - "Shredded cabbage"
+          - "Sliced mushrooms"
+    
+    dietary_modifications:
+      gluten_free:
+        - "Use GF pasta or rice"
+        - "Check seasoning mixes"
+        - "Use cornstarch for thickening"
+      
+      vegetarian:
+        - "Use beans, lentils, or tofu"
+        - "Check bouillon ingredients"
+        - "Consider adding nutritional yeast"
+    
+    equipment_alternatives:
+      minimal:
+        - "Deep skillet or large pot"
+        - "One stirring utensil"
+        - "Measuring cups/spoons"
+      
+      optimal:
+        - "12-inch skillet with lid"
+        - "Wooden spoon and spatula"
+        - "Kitchen scale"
+    
+    scaling_guidance:
+      base_quantities:
+        "4 servings":
+          - "1 lb protein"
+          - "8 oz pasta/starch"
+          - "1 lb vegetables"
+          - "3-4 cups liquid"
+      
+      notes:
+        - "Don't fill pan more than 2/3 full"
+        - "Cook in batches if scaling up"
+        - "Sauce thickens more in larger batches"
+    
+    cost_considerations:
+      stretching_protein:
+        - "Use half meat, half beans"
+        - "Increase vegetables"
+        - "TVP or lentils for part of protein"
+      
+      vegetable_options:
+        - "Frozen generally cheapest"
+        - "Cabbage economical fresh choice"
+        - "Watch sales for fresh options"
+    
+  storage:
+    instructions:
+      refrigerator:
+        - "Cool completely before storing"
+        - "Store in covered container"
+        - "Use within 4 days"
+      
+      freezer:
+        - "Cool completely"
+        - "Portion into containers"
+        - "Label with date"
+        - "Use within 3 months"
+    
+    batch_cooking:
+      tips:
+        - "Cook protein in batches if large amount"
+        - "Don't overcrowd pan"
+        - "Allow extra time for larger volumes"
+    
+    reheating:
+      microwave:
+        - "Add splash of water"
+        - "Heat in short intervals, stir between"
+      
+      stovetop:
+        - "Low heat"
+        - "Add water if needed"
+        - "Stir occasionally"
+      
+    quality_expectations:
+      - "Sauce may thicken when cold"
+      - "Pasta can soften slightly"
+      - "May need additional seasoning after reheating"

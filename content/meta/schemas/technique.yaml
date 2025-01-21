@@ -1,0 +1,35 @@
+metadata:
+  title: 
+  type: technique
+  id: unique-technique-id
+  related_techniques: []
+  core_principles: []
+  icons: []
+  tags: []
+  difficulty_level:
+  time_flexibility:
+  equipment_requirements:
+  energy_level_needed:
+
+content_sections:
+  overview:
+    problem_solved:
+    when_to_use:
+    key_principles:
+    
+  core_method:
+    basic_ratio:
+    essential_steps:
+    critical_points:
+    success_indicators:
+    
+  adaptations:
+    equipment:
+    dietary:
+    resource:
+    scaling:
+    
+  troubleshooting:
+    common_issues:
+    prevention:
+    recovery:

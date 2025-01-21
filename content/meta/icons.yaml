@@ -1,0 +1,23 @@
+resource_icons:
+  ↔️: "Flexible scaling" # Recipe can be easily scaled up/down
+  🔧: "Equipment flexible" # Can be made with minimal/variable equipment
+  ⚡️: "Energy conscious" # Includes low-energy options/rest points
+  🕒: "Time flexible" # Can be paused/split into stages
+
+cooking_method_icons:
+  ♨️: "One-pot/pan" # Everything cooks in single container
+  🧊: "No-cook" # Doesn't require heat/cooking
+  🔥: "Active cooking" # Requires consistent attention
+  💤: "Passive cooking" # Most time is hands-off
+
+dietary_icons:
+  🌱: "Plant-based adaptable" # Can be made vegetarian/vegan
+  🌾: "Gluten-free adaptable" # Can be made gluten-free
+  💪: "Protein flexible" # Works with multiple protein sources
+  🥄: "Low effort" # Minimal physical effort required
+
+storage_icons:
+  📦: "Batch friendly" # Good for batch cooking
+  ❄️: "Freezer friendly" # Freezes/thaws well
+  ⏳: "Make ahead" # Can be prepared in advance
+  🔄: "Good leftovers" # Maintains quality when stored
